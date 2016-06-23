@@ -356,6 +356,21 @@ color:#000;
 #features .media.service-box:first-child {
   margin-top: 80px;
 }
+
+#timeline p { color : #FFFFFF;}
+#timeline h2{ color: #48B1DF;}
+#timeline .time-header {color : #FFFFFF;}
+#timeline {
+  padding: 100px 0;
+  background: #FFFFFF;
+  color: #48B1DF;
+}
+
+#timeline .media.service-box:first-child {
+  margin-top: 80px;
+}
+
+
 #services, #features {
   padding: 100px 0 75px;
 }
